@@ -1,0 +1,5 @@
+C:\Users\tito\Desktop\UsuariosEXMN\ApplicationLogic\obj\Debug\net8.0\ApplicationLogic.csproj.AssemblyReference.cache
+C:\Users\tito\Desktop\UsuariosEXMN\ApplicationLogic\obj\Debug\net8.0\ApplicationLogic.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tito\Desktop\UsuariosEXMN\ApplicationLogic\obj\Debug\net8.0\ApplicationLogic.AssemblyInfoInputs.cache
+C:\Users\tito\Desktop\UsuariosEXMN\ApplicationLogic\obj\Debug\net8.0\ApplicationLogic.AssemblyInfo.cs
+C:\Users\tito\Desktop\UsuariosEXMN\ApplicationLogic\obj\Debug\net8.0\ApplicationLogic.csproj.CoreCompileInputs.cache

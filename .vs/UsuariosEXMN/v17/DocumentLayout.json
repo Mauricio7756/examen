@@ -1,0 +1,177 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\tito\\Desktop\\UsuariosEXMN\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{FC99FA27-A624-4A8E-8F6B-2229BD6A3D85}|UsuariosEXMN\\UsuariosEXMN.csproj|c:\\users\\tito\\desktop\\usuariosexmn\\usuariosexmn\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{FC99FA27-A624-4A8E-8F6B-2229BD6A3D85}|UsuariosEXMN\\UsuariosEXMN.csproj|solutionrelative:usuariosexmn\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{05A0CC34-480C-446F-A6DA-029614142A5C}|DataAccess\\DataAccess.csproj|c:\\users\\tito\\desktop\\usuariosexmn\\dataaccess\\employeesrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{05A0CC34-480C-446F-A6DA-029614142A5C}|DataAccess\\DataAccess.csproj|solutionrelative:dataaccess\\employeesrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FC99FA27-A624-4A8E-8F6B-2229BD6A3D85}|UsuariosEXMN\\UsuariosEXMN.csproj|c:\\users\\tito\\desktop\\usuariosexmn\\usuariosexmn\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FC99FA27-A624-4A8E-8F6B-2229BD6A3D85}|UsuariosEXMN\\UsuariosEXMN.csproj|solutionrelative:usuariosexmn\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4461A4D1-F6BB-49EC-8218-08BFD5F46F36}|ApplicationLogic\\ApplicationLogic.csproj|c:\\users\\tito\\desktop\\usuariosexmn\\applicationlogic\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4461A4D1-F6BB-49EC-8218-08BFD5F46F36}|ApplicationLogic\\ApplicationLogic.csproj|solutionrelative:applicationlogic\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FC99FA27-A624-4A8E-8F6B-2229BD6A3D85}|UsuariosEXMN\\UsuariosEXMN.csproj|c:\\users\\tito\\desktop\\usuariosexmn\\usuariosexmn\\usuariosexmn.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{FC99FA27-A624-4A8E-8F6B-2229BD6A3D85}|UsuariosEXMN\\UsuariosEXMN.csproj|solutionrelative:usuariosexmn\\usuariosexmn.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FC99FA27-A624-4A8E-8F6B-2229BD6A3D85}|UsuariosEXMN\\UsuariosEXMN.csproj|c:\\users\\tito\\desktop\\usuariosexmn\\usuariosexmn\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{FC99FA27-A624-4A8E-8F6B-2229BD6A3D85}|UsuariosEXMN\\UsuariosEXMN.csproj|solutionrelative:usuariosexmn\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4461A4D1-F6BB-49EC-8218-08BFD5F46F36}|ApplicationLogic\\ApplicationLogic.csproj|c:\\users\\tito\\desktop\\usuariosexmn\\applicationlogic\\employeemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4461A4D1-F6BB-49EC-8218-08BFD5F46F36}|ApplicationLogic\\ApplicationLogic.csproj|solutionrelative:applicationlogic\\employeemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FC99FA27-A624-4A8E-8F6B-2229BD6A3D85}|UsuariosEXMN\\UsuariosEXMN.csproj|c:\\users\\tito\\desktop\\usuariosexmn\\usuariosexmn\\assemblyinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FC99FA27-A624-4A8E-8F6B-2229BD6A3D85}|UsuariosEXMN\\UsuariosEXMN.csproj|solutionrelative:usuariosexmn\\assemblyinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FC99FA27-A624-4A8E-8F6B-2229BD6A3D85}|UsuariosEXMN\\UsuariosEXMN.csproj|c:\\users\\tito\\desktop\\usuariosexmn\\usuariosexmn\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{FC99FA27-A624-4A8E-8F6B-2229BD6A3D85}|UsuariosEXMN\\UsuariosEXMN.csproj|solutionrelative:usuariosexmn\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 10,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{40ea2e6b-2121-4bb8-a43e-c83c04b51041}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Employee.cs",
+              "DocumentMoniker": "C:\\Users\\tito\\Desktop\\UsuariosEXMN\\ApplicationLogic\\Employee.cs",
+              "RelativeDocumentMoniker": "ApplicationLogic\\Employee.cs",
+              "ToolTip": "C:\\Users\\tito\\Desktop\\UsuariosEXMN\\ApplicationLogic\\Employee.cs",
+              "RelativeToolTip": "ApplicationLogic\\Employee.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAzwBEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-04T02:57:59.571Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "EmployeesRepository.cs",
+              "DocumentMoniker": "C:\\Users\\tito\\Desktop\\UsuariosEXMN\\DataAccess\\EmployeesRepository.cs",
+              "RelativeDocumentMoniker": "DataAccess\\EmployeesRepository.cs",
+              "ToolTip": "C:\\Users\\tito\\Desktop\\UsuariosEXMN\\DataAccess\\EmployeesRepository.cs",
+              "RelativeToolTip": "DataAccess\\EmployeesRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAH0AAAA3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-04T02:38:30.672Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "UsuariosEXMN.csproj",
+              "DocumentMoniker": "C:\\Users\\tito\\Desktop\\UsuariosEXMN\\UsuariosEXMN\\UsuariosEXMN.csproj",
+              "RelativeDocumentMoniker": "UsuariosEXMN\\UsuariosEXMN.csproj",
+              "ToolTip": "C:\\Users\\tito\\Desktop\\UsuariosEXMN\\UsuariosEXMN\\UsuariosEXMN.csproj",
+              "RelativeToolTip": "UsuariosEXMN\\UsuariosEXMN.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-12-03T01:30:37.912Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "App.config",
+              "DocumentMoniker": "C:\\Users\\tito\\Desktop\\UsuariosEXMN\\UsuariosEXMN\\App.config",
+              "RelativeDocumentMoniker": "UsuariosEXMN\\App.config",
+              "ToolTip": "C:\\Users\\tito\\Desktop\\UsuariosEXMN\\UsuariosEXMN\\App.config",
+              "RelativeToolTip": "UsuariosEXMN\\App.config",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2025-12-02T02:51:29.227Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "App.xaml",
+              "DocumentMoniker": "C:\\Users\\tito\\Desktop\\UsuariosEXMN\\UsuariosEXMN\\App.xaml",
+              "RelativeDocumentMoniker": "UsuariosEXMN\\App.xaml",
+              "ToolTip": "C:\\Users\\tito\\Desktop\\UsuariosEXMN\\UsuariosEXMN\\App.xaml",
+              "RelativeToolTip": "UsuariosEXMN\\App.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-12-02T02:51:01.568Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "EmployeeManager.cs",
+              "DocumentMoniker": "C:\\Users\\tito\\Desktop\\UsuariosEXMN\\ApplicationLogic\\EmployeeManager.cs",
+              "RelativeDocumentMoniker": "ApplicationLogic\\EmployeeManager.cs",
+              "ToolTip": "C:\\Users\\tito\\Desktop\\UsuariosEXMN\\ApplicationLogic\\EmployeeManager.cs",
+              "RelativeToolTip": "ApplicationLogic\\EmployeeManager.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAA4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-02T02:32:11.983Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "AssemblyInfo.cs",
+              "DocumentMoniker": "C:\\Users\\tito\\Desktop\\UsuariosEXMN\\UsuariosEXMN\\AssemblyInfo.cs",
+              "RelativeDocumentMoniker": "UsuariosEXMN\\AssemblyInfo.cs",
+              "ToolTip": "C:\\Users\\tito\\Desktop\\UsuariosEXMN\\UsuariosEXMN\\AssemblyInfo.cs",
+              "RelativeToolTip": "UsuariosEXMN\\AssemblyInfo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-02T02:18:51.838Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\tito\\Desktop\\UsuariosEXMN\\UsuariosEXMN\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "UsuariosEXMN\\MainWindow.xaml",
+              "ToolTip": "C:\\Users\\tito\\Desktop\\UsuariosEXMN\\UsuariosEXMN\\MainWindow.xaml",
+              "RelativeToolTip": "UsuariosEXMN\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-12-02T02:14:46.067Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\tito\\Desktop\\UsuariosEXMN\\UsuariosEXMN\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "UsuariosEXMN\\MainWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\tito\\Desktop\\UsuariosEXMN\\UsuariosEXMN\\MainWindow.xaml.cs",
+              "RelativeToolTip": "UsuariosEXMN\\MainWindow.xaml.cs",
+              "ViewState": "AgIAAF4AAAAAAAAAAAAkwG0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-02T02:14:31.326Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
